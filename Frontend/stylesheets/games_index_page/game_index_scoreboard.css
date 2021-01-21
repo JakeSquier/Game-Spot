@@ -1,0 +1,33 @@
+/* game buttons */
+.game-scores {
+    width: 50%;
+    height: auto;
+    padding: 5px;
+    border: 1px black solid;
+    background-color: grey;
+    border-radius: 5px;
+    font-size: x-small;
+}
+.score{
+    background-color: grey;
+}
+
+/* scoreboardgrid */
+
+#index-highscores{
+    border-radius: 10px;
+    display: grid;
+}
+
+#game-buttons{
+    background-color: black;
+    border-radius: 3px;
+    border: 5px blue;
+    height: 55px;
+}
+
+#game-scoreboard{
+    background-color: lightgrey;
+    border: 2px black; 
+    height: 1390px;
+}

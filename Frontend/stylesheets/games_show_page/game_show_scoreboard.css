@@ -1,0 +1,19 @@
+#score-board-show{
+    border: 4px black solid;
+    border-radius: 10px;
+    display: grid;
+}
+
+#show-page-scoreboard-header{
+    background-color: black;
+    border-radius: 3px;
+    border: 5px blue;
+    height: 25%;
+}
+
+#show-page-score-panel{
+    background-color: black;
+    border-radius: 3px;
+    border: 5px green;
+    height: 75%;
+}

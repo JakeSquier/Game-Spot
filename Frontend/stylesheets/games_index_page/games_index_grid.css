@@ -1,0 +1,38 @@
+.document{
+    background-color: rgb(63, 63, 63);
+}
+
+.webpage {
+    width: 100vh;
+    height: 100vw;
+    grid-template-columns: 75% 25%;
+    grid-template-rows: 25% 50% 25%;
+    grid-gap: 0px;
+    background-color: #373d47;
+    display: grid;
+}
+
+#index-header{
+    background-color: rgb(63, 63, 63);
+    color: black;
+    border: 2px rgb(158, 148, 148) solid;
+    grid-area: 1 / 1 / 1 / 2;
+}
+
+#games-index{
+    background-color: rgb(63, 63, 63);
+    color: black;
+    border: 2px grey solid;
+    grid-area: 2 / 1 / 5 / 2;
+}
+
+#index-highscores{
+    background-color: rgb(63, 63, 63);
+    color: black;
+    border: 2px grey;
+    grid-area: 1 / 2 / 1 / 6;
+}
+
+#index-title{
+    text-align: center;
+}

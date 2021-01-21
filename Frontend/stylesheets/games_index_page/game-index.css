@@ -1,0 +1,12 @@
+#ganes-index{
+    display: grid;
+}
+
+.card{
+    background-color: beige;
+    color: black;
+    border-radius: 5px;
+    border: 2px dodgerblue;
+
+    
+}

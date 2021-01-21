@@ -1,0 +1,20 @@
+#game-scoreboard{
+    border: 4px blueviolet solid;
+    display: grid;
+}
+.score-panel{
+    background-color: burlywood;
+    height: 25%;
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+}
+.userName{
+    background-color: cadetblue;
+    height: 100%;
+
+}
+
+.score{
+    background-color: cornflowerblue;
+    height: 100%;
+}

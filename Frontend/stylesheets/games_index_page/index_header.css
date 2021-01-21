@@ -1,0 +1,12 @@
+
+#index-header{
+    background-color: grey;
+    color: black;
+    border-radius: 5px;
+    border: 2px dodgerblue;
+    grid-template-columns: 1fr 1fr 1fr;
+    display: grid;
+}
+.movingTitleContainer{
+    justify-content: center;
+}
